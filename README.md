@@ -1,6 +1,6 @@
 # MinorityGame
 The results for matrix with penalty:
-![](CS591_Hw4_Dashboard.PNG)
+![](Average Total Score For Each Strategy for Matrix 1.png)
 
 The results for matrix without penalty
-![](CS591_Hw4_Dashboard.PNG)
+![](Average Total Score For Each Strategy for Matrix 2.png)
