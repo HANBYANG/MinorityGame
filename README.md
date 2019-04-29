@@ -1,8 +1,8 @@
 # MinorityGame
 The results for matrix with penalty:
 
-![](Average Total Score For Each Strategy for Matrix 1.png)
+![](Average_Total_Score_For_Each_Strategy_for_Matrix_1.png)
 
 The results for matrix without penalty
 
-![](Average Total Score For Each Strategy for Matrix 2.png)
+![](Average_Total_Score_For_Each_Strategy_for_Matrix_2.png
