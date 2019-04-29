@@ -1,0 +1,7 @@
+﻿  MinorityGame.cpp
+E:\WorkSpace\Visual Studio\MinorityGame\MinorityGame\MinorityGame\MinorityGame.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+E:\WorkSpace\Visual Studio\MinorityGame\MinorityGame\MinorityGame\MinorityGame.cpp(111): warning C4018: “<=”: 有符号/无符号不匹配
+E:\WorkSpace\Visual Studio\MinorityGame\MinorityGame\MinorityGame\MinorityGame.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+E:\WorkSpace\Visual Studio\MinorityGame\MinorityGame\MinorityGame\MinorityGame.cpp(130): warning C4018: “<=”: 有符号/无符号不匹配
+E:\WorkSpace\Visual Studio\MinorityGame\MinorityGame\MinorityGame\MinorityGame.cpp(144): warning C4715: “go”: 不是所有的控件路径都返回值
+  MinorityGame.vcxproj -> E:\WorkSpace\Visual Studio\MinorityGame\MinorityGame\Debug\MinorityGame.exe
